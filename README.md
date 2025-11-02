@@ -1,7 +1,7 @@
 <h1 style="text-align: center;">Hi 👋, I'm Will Pilares</h1>
 <h3 style="text-align: center;">I am a full stack developer passionate about technology and its potential to turn ideas into innovative solutions. I enjoy tackling complex challenges, learning new tools, and collaborating to create applications that make an impact. My experience spans from building robust backends to designing intuitive frontends, always striving to optimize and enhance the performance of the systems I work on.</h3>
 
-- 🔭 I’m currently working on **Promitia**
+- 🔭 I’m currently working on **Whitelion**
 
 - 📫 How to reach me **wgpilaresc@gmail.com**
 
