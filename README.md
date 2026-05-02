@@ -1,8 +1,8 @@
-<div align="center">
+<div style="text-align: center;">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey!+I'm+Will+Pilares+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Backend+Specialist+%E2%9A%99%EF%B8%8F;DevOps+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9)
 
-  <p align="center">
+  <p style="text-align: center;">
     <a href="https://github.com/wpilares">
       <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus"/>
     </a>
@@ -14,7 +14,7 @@
     </a>
   </p>
 
-  <p align="center">
+  <p style="text-align: center;">
     <img src="https://komarev.com/ghpvc/?username=wpilares&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/wpilares?label=Followers&style=social" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/stars/wpilares?label=Stars&style=social" alt="GitHub Stars" />
@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img style="float: right;" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 I'm a **passionate Full Stack Developer** who loves turning ideas into innovative solutions. I thrive on tackling complex challenges and continuously learning new technologies.
 
@@ -46,17 +46,17 @@ I'm a **passionate Full Stack Developer** who loves turning ideas into innovativ
 
 ### 📫 Connect With Me
 
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <a href="https://linkedin.com/in/wpilaresc" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:wgpilaresc@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wpilares.vercel.app" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -121,14 +121,14 @@ I'm a **passionate Full Stack Developer** who loves turning ideas into innovativ
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<p style="text-align: center;">
   <a href="https://github.com/wpilares">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wpilares&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wpilares&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D"/>
   </a>
 </p>
 
-<p align="center">
+<p style="text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wpilares&theme=radical&border_radius=10&background=0D1117&stroke=30363D&ring=00D9FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </p>
 
@@ -136,7 +136,7 @@ I'm a **passionate Full Stack Developer** who loves turning ideas into innovativ
 
 ## 🏆 Achievements
 
-<p align="center">
+<p style="text-align: center;">
   <a href="https://github.com/wpilares?tab=achievements">
     <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" height="80" alt="Pull Shark" />
     <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="80" height="80" alt="Pair Extraordinaire" />
@@ -145,7 +145,7 @@ I'm a **passionate Full Stack Developer** who loves turning ideas into innovativ
   </a>
 </p>
 
-<p align="center">
+<p style="text-align: center;">
   <a href="https://github.com/wpilares?tab=achievements">
     <img src="https://img.shields.io/badge/Achievements-4%20Unlocked-brightgreen?style=for-the-badge&logo=github" alt="GitHub Achievements" />
   </a>
@@ -155,7 +155,7 @@ I'm a **passionate Full Stack Developer** who loves turning ideas into innovativ
 
 ## 🔥 Contribution Graph
 
-<p align="center">
+<p style="text-align: center;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wpilares&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
@@ -163,28 +163,28 @@ I'm a **passionate Full Stack Developer** who loves turning ideas into innovativ
 
 ## 💻 Featured Projects
 
-<div align="center">
+<div style="text-align: center;">
 
   <a href="https://github.com/wpilares/GO-MYSQL">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wpilares&repo=GO-MYSQL&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wpilares&repo=GO-MYSQL&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
   </a>
   
   <a href="https://github.com/wpilares/Pokedex">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wpilares&repo=Pokedex&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wpilares&repo=Pokedex&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
   </a>
 
 </div>
 
 <br/>
 
-<div align="center">
+<div style="text-align: center;">
 
   <a href="https://github.com/wpilares/wpilares.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wpilares&repo=wpilares.github.io&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wpilares&repo=wpilares.github.io&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
   </a>
   
   <a href="https://github.com/wpilares/webdevtrends-service">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wpilares&repo=webdevtrends-service&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wpilares&repo=webdevtrends-service&theme=radical&border_radius=10&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&border_color=30363D" />
   </a>
 
 </div>
@@ -197,17 +197,17 @@ I'm a **passionate Full Stack Developer** who loves turning ideas into innovativ
 <!-- This section will be auto-populated by GitHub Actions if configured -->
 <!--END_SECTION:activity-->
 
-<p align="center">
+<p style="text-align: center;">
   <i>⚡ Building the future, one commit at a time.</i>
 </p>
 
-<p align="center">
+<p style="text-align: center;">
   <img src="https://raw.githubusercontent.com/wpilares/wpilares/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<div align="center">
+<div style="text-align: center;">
   
   ### Show some ❤️ by starring some of my repositories!
   
